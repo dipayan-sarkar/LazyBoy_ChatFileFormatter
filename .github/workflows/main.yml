@@ -1,4 +1,4 @@
-name: Keep Streamlit App Alive
+name: Keep ChatFormatter App Alive
 
 on:
   schedule:
